@@ -1,4 +1,8 @@
 draw_config:
+  background_color: "transparent"
+  layers:
+    - QWRT
+    - NUM
   n_columns: 1
   draw_key_sides: true
   key_w: 60.0
