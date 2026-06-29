@@ -39,7 +39,7 @@ layers:
   - {t: '$$mdi:keyboard-tab$$', h: SCROLL}
   - {t: '$$mdi:keyboard-return$$', h: NUM}
   - {t: '$$mdi:backspace$$', h: SYM}
-  - {t: '~', h: FUN}
+  - {t: '`', h: FUN, s: '~'}
   NUM:
   - HOME
   - $$mdi:arrow-up-bold$$
